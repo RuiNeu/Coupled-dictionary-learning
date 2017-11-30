@@ -9,7 +9,7 @@ nSmp = 10000;
 
 p.ep = 0.15;
 p.ds = 256;
-p.itern = 2;   % itern 
+p.itern = 30;   % itern 
 p.DUC = 1;
     
 % randomly capturing image patches
